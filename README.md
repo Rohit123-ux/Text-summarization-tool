@@ -1,10 +1,16 @@
 # Text-summarization-tool
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: ROHIT KUMAR THAKUR
+
 INTERN ID: CT04DG855
+
 DOMAIN: ARTIFICIAL INTELLIGENCE
-DURATION: 4 WEEKS 
+
+DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
+
 DESCRIPTION OF THE TASK: A text summarization tool is an advanced computational system designed to condense a long piece of text into a shorter version while retaining the essential information and meaning of the original content. This tool utilizes various natural language processing (NLP) and machine learning (ML) techniques to analyze, comprehend, and generate summaries of textual data. Text summarization has become increasingly significant in our information-saturated world, where vast amounts of data are generated every second, making it challenging for individuals to read and absorb everything.
 
 The primary objective of a text summarization tool is to produce coherent, concise summaries that help users quickly grasp the main ideas and key points of a document without having to read it in its entirety. This tool can be highly beneficial in multiple contexts, such as academic research, news aggregation, content curation, legal and medical document analysis, and customer support, among others.
