@@ -26,3 +26,9 @@ One of the core challenges in text summarization is maintaining a balance betwee
 In modern applications, text summarization tools are often integrated into digital platforms to help users process vast amounts of data quickly. For example, news apps and websites use summarization to generate brief news snippets for easy consumption. In the corporate sector, summarization tools help managers and professionals quickly scan reports, emails, and other business documents to make informed decisions. In academia, these tools can be used to review research papers and articles efficiently, saving valuable time.
 
 Overall, a text summarization tool is an invaluable asset in today’s digital age, enabling users to navigate through massive volumes of text more efficiently while focusing on the most relevant information. As NLP technologies continue to evolve, these tools are becoming more accurate, user-friendly, and essential for anyone seeking to stay informed and productive in an information-rich world.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/f08778dd-5f55-4e2d-ba34-f5b6d742242e)
+
+
